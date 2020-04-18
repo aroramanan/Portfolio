@@ -5,7 +5,7 @@
 These projects were pursued during the my time at Plaksha Tech Leaders Fellowship from 2019 to 2020.
 
 
-List of Projects:
+#### List of Projects:
 
 | Skill              | Domain                 | Project Name                                       | Mentor                                                                                                  | Tools Used                  |
 |--------------------|------------------------|----------------------------------------------------|---------------------------------------------------------------------------------------------------------|-----------------------------|
