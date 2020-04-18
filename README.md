@@ -1,6 +1,6 @@
 # Portfolio  - Manan Arora
 
-### Domain of  Projects: Analytics, Design Thinking, Product Management and Human Computer Interaction
+##### Domain of  Projects: Analytics, Design Thinking, Product Management and Human Computer Interaction
 
 These projects were pursued during the my time at Plaksha Tech Leaders Fellowship from 2019 to 2020.
 
