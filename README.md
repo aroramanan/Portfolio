@@ -6,7 +6,6 @@ These projects were pursued during the my time at Plaksha Tech Leaders Fellowshi
 
 List of Projects:
 
-| Category     | Domain | Project Name   | Mentor
-| :---        |    :----:   |          ---: | :----:   |
-| Header      | Title       | Here's this   |          |    
-| Paragraph   | Text        | And  more      |         |
+| Skills| Domain | Project Name| Mentor| Tools Used|
+| :--- | :----: |---: | :----:|---:|:----:|
+| Product| Mobility Consumer App|Heuristic Evaluation of Hexi|Prof. Sudheendra Hangal, Founder, Amuse Labs, Former Director Stanford Mobisocial Lab|-|
