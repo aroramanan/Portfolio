@@ -1,6 +1,6 @@
 # Portfolio  - Manan Arora
 
-##### Domain of  Projects: Analytics, Design Thinking, Product Management and Human Computer Interaction
+##### Domain of  Projects: Analytics, ML, Design Thinking, Product Management and Human Computer Interaction
 
 These projects were pursued during my time at [Plaksha Tech Leaders Fellowship](https://plaksha.org/techleaders) from 2019 to 2020.
 
@@ -12,6 +12,7 @@ These projects were pursued during my time at [Plaksha Tech Leaders Fellowship](
 | Product Design     | Consumer Productivity  | [Email Attachment App Extension](https://github.com/aroramanan/Portfolio/tree/master/Product%20Design%20-%20Email%20Attachment%20App%20Extension)                     | Prof. Sudheendra Hangal, Founder, Amuse Labs and Former Associate Director at Stanford Mobisocial Lab   | Justinmind (Prototype Tool) |
 | Product Ideation   | Online Commerce        | [E-Commerce Aggregator with Social Features](https://github.com/aroramanan/Portfolio/tree/master/Product%20Idea%20-%20Social%20Commerce%20-%20Fluence)         | Prof. David Law , SCET, UC Berkeley; Alok Mittal, Founder - Indifi and Manish Vig, Founder- Smile Group | Invision Studio             |
 | Product Development (AI/ML)       | Agriculture        | [Crop Pest Detection using Image Recognition + Chatbot for Farm Queries](https://github.com/pranatibalodia/DataX-AgriAI)   | Prof. Alexander Fred Ojala, UC Berkeley and Prof. Dharmendra Saraswat, Purdue University                                                             | Python (Deep Learning), Heroku, Dialogflow                         |
+| Product Management     | Coronavirus      | [WashKaro: Multilingual Infodemic Management App](https://play.google.com/store/apps/details?id=inspire2connect.inspire2connect&hl=en)   | Dr. Tavpritesh Sethi Prof. & Dr. P.Kumaraguru                                                             | Python                        |
 | Sytem Design       | Medical Devices        | [Smart Casing System for Chronic Disease Patients](https://github.com/aroramanan/Portfolio/tree/master/System%20Design%20-%20Smart%20Casing%20for%20Chronic%20Disease%20Patients)   | Prof. Dave Chessney, University of Michigan                                                             | -                           |
 | Product Evaluation | Mobility               | [Heuristic Evaluation - Hexi Mobility App](https://github.com/aroramanan/Portfolio/tree/master/Heuristic%20Evaluation%20-%20Hexi%20Mobility%20App)         | Prof. Sudheendra Hangal, Founder, Amuse Labs and Former Associate Director at Stanford Mobisocial Lab   | -                           |
 | Design Thinking    | Consumer Health        | [Designing Employee Wellness Initiative for IT Company](https://github.com/aroramanan/Portfolio/tree/master/Design%20Thinking%20-%20Employee%20Health%20App) | Prof. Jitesh Panchal, Purdue University                                                                 | UXPressia, Marvel App       |
